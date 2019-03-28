@@ -8,7 +8,7 @@
 ## Very important tutorials
 
 - [Media queries are very important.](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
-- [Here are some very important html elements. Try to use the best ones for the job.](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- [Here are some very important HTML elements. Try to use the best ones for the job.](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 ## CSS generators.
 
@@ -31,7 +31,7 @@ Layout is hard but it is one of the most powerful thing you can learn.
 
 - [Best site for CSS stuff + everything web development](https://developer.mozilla.org/en-US/)
 - [Very interesting place CSS tutorials](https://css-tricks.com/)
-- [This site is not the best but it is still very helpful if you cant find what you want on developer.mozilla.org](https://www.w3schools.com/cssref/default.asp)
+- [This site is not the best but it is still very helpful if you can't find what you want on developer.mozilla.org](https://www.w3schools.com/cssref/default.asp)
 
 ## Useful images.
 
