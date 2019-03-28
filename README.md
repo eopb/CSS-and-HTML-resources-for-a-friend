@@ -1,1 +1,1 @@
-CSS-and-HTML-resources-for-a-friend
+css_html_resources_for_beginners

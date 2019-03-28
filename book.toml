@@ -1,0 +1,5 @@
+[book]
+authors = ["Ethan Brierley"]
+multilingual = false
+src = "src"
+title = "css_html_resources_for_beginners"
