@@ -1,4 +1,4 @@
-# CSS and HTML resources for beginners.
+# CSS and HTML resources for a friend.
 
 ## Learn selectors as soon as possible.
 
