@@ -5,10 +5,11 @@
 - [Good article that tells you how to select most things.](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 - [Great reference and quiz.](https://frontend30.com/css-selectors-cheatsheet/)
 
-## Very important tutorials
+## Important tutorials
 
 - [Media queries are very important.](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
 - [Here are some very important HTML elements. Try to use the best ones for the job.](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- [CSS units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Values_and_units)
 
 ## CSS generators.
 
@@ -26,7 +27,6 @@ Layout is hard but it is one of the most powerful thing you can learn.
 - [Floats are the most basic layout tools.](https://developer.mozilla.org/en-US/docs/Web/CSS/float)
 - [Flexbox is more complex but far more powerful.](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [The most powerful and most complex](https://css-tricks.com/snippets/css/complete-guide-grid/)
-- [CSS units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Values_and_units)
 
 ## Useful sites
 
